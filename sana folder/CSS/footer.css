@@ -1,0 +1,64 @@
+/* this is footer */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.foot{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: space-between;
+    margin-top: 2vh!important;
+}
+.img{
+    height: 35vh;
+    width: 35vh;
+    padding-top: 4vh!important;
+    padding-left: 4vh!important;
+}
+
+.cat{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1vh;
+
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1vh;
+
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+  padding-top: 1vh;
+    
+        }
+        .cat a{
+            color: #ffffff;
+            padding-top: 3vh!important;
+            text-decoration: none;
+            font-weight: bold;
+            font-size:large;
+
+
+        }
+.links a{
+color: #ffffff;
+padding-top: 3vh!important;
+text-decoration: none;
+font-weight: bold;
+font-size:large;
+
+}
+.information p{
+padding-top: 2vh!important;
+padding-right: 4vh!important;
+}
